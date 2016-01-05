@@ -1,0 +1,25 @@
+{
+  "name": "indefinitely",
+  "version": "1.0.0",
+  "description": "a promise that never resolves, useful for debugging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seapunk/indefinitely.git"
+  },
+  "keywords": [
+    "promise",
+    "async",
+    "await",
+    "forever"
+  ],
+  "author": "ivan k <ivan@sq10.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seapunk/indefinitely/issues"
+  },
+  "homepage": "https://github.com/seapunk/indefinitely#readme"
+}
