@@ -1,4 +1,6 @@
 # indefinitely
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SEAPUNK/indefinitely.svg)](https://greenkeeper.io/)
 a promise that never resolves
 
 useful for debugging and adding breakpoints
